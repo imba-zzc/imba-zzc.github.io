@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Economics, Hong Kong University of Science and Technology, 2023
-* B.S. in Economics, Huahzong University of Science and Technology, 2021
+* B.S. in Economics, Huazhong University of Science and Technology, 2021
 
 Work experience
 ======
