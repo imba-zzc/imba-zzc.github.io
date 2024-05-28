@@ -8,8 +8,8 @@
 # - title: "Portfolio"
 # url: /portfolio/
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
         
   - title: "Blog Posts"
     url: /year-archive/
