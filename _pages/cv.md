@@ -16,29 +16,24 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct. 2023 - present: Research Assistant
+  * Hong Kong University of Science and Technology
+  * Duties includes: Collecting data, empirical study
+  * Supervisor: Prof. Lin Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Research Assistant
+  * Hong Kong University of Science and Technology
+  * Duties included: Cleaning data
+  * Supervisor: Prof. Deyu Rao
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Assistant
+  * Huahzong University of Science and Technology
+  * Duties included: Cleaning data
+  * Supervisor: Prof. Chuan He
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* stata, R, Python, QGIS, LATEX
 
 Publications
 ======
