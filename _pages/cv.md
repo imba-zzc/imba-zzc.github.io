@@ -21,7 +21,7 @@ Work experience
   * Duties includes: Collecting data, empirical study
   * Supervisor: Prof. Lin Yang
 
-* Spring 2023: Research Assistant
+* Jan 2023 - Sep. 2023: Research Assistant
   * Hong Kong University of Science and Technology
   * Duties included: Cleaning data
   * Supervisor: Prof. Deyu Rao
