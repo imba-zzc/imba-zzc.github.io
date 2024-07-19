@@ -12,7 +12,7 @@ title                    : "Zhencheng Zhang"
 title_separator          : "-"
 name                     : &name "Zhencheng"
 description              : &description "personal description"
-url                      : https://imba-zzc.github.io
+url                      : https://zhenchengzhang.site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imba-zzc/imba-zzc.github.io"
 
