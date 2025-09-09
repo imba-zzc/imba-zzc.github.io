@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant for Prof. Lin Yang, you can download my [CV](/files/CV.pdf) here.
+I am currently a MEA 1st year student at UC3M, you can download my [CV](/files/CV.pdf) here.
