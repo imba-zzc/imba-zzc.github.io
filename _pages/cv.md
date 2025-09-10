@@ -11,29 +11,27 @@ redirect_from:
 
 Education
 ======
+* MEA, University Charles III of Madrid, present
 * M.S. in Economics, Hong Kong University of Science and Technology, 2023
 * B.S. in Economics, Huazhong University of Science and Technology, 2021
 
 Work experience
 ======
-* Oct. 2023 - present: Research Assistant
+* Oct. 2023 - Jul. 2025: Research Assistant
   * Hong Kong University of Science and Technology
-  * Duties includes: Collecting data, empirical study
   * Supervisor: Prof. Lin Yang
 
 * Jan 2023 - Sep. 2023: Research Assistant
   * Hong Kong University of Science and Technology
-  * Duties included: Cleaning data
   * Supervisor: Prof. Deyu Rao
 
 * Summer 2021: Research Assistant
   * Huahzong University of Science and Technology
-  * Duties included: Cleaning data
   * Supervisor: Prof. Chuan He
   
 Skills
 ======
-* stata, R, Python, QGIS, LATEX
+* Stata, R, Python, SQL, QGIS, LATEX
 
 Publications
 ======
