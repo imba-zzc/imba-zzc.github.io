@@ -1,0 +1,18 @@
+# main links links
+# - title: "Talks"
+#  url: /talks/    
+
+# - title: "Teaching"
+# url: /teaching/    
+    
+# - title: "Portfolio"
+# url: /portfolio/
+main:
+  - title: "Research"
+    url: /research/
+        
+  - title: "Blog Posts"
+    url: /blog-posts/
+    
+  - title: "CV"
+    url: /cv/
